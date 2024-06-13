@@ -3,7 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitk874&label=Profile%20views&color=0e75b6&style=flat" alt="sumitk874" /> </p>
 
-- 🌱 I’m currently learning **Advanced machine learning techniques - Cloud data services (AWS, GCP, Azure) - Statistical analysis methods**
+- 🌱 I’m currently learning
+  - **Advanced machine learning techniques**
+  - **Cloud data services (AWS, GCP, Azure)**
+  - **Statistical analysis methods**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
