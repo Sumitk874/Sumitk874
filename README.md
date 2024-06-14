@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paramjeet Kumar</h1>
-<h3 align="center">Student at Netaji Subhas University of Technology and an aspiring data analyst passionate about turning data into actionable insights. With a solid understanding of programming and data visualization, I enjoy exploring data to solve complex problems and drive decision-making.</h3>
+<h3 align="center">Who am I? I'm a hard worker. I set high goals and I've been told that I'm persistent.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitk874&label=Profile%20views&color=0e75b6&style=flat" alt="sumitk874" /> </p>
 
