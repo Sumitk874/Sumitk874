@@ -7,7 +7,11 @@
   - **Advanced machine learning techniques**
   - **Cloud data services (AWS, GCP, Azure)**
   - **Statistical analysis methods**
+### Spotify Playing 🎧
 
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/3h7sxlomotumqw6dlof3atw7j)
+
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/paramzeet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paramzeet" height="30" width="40" /></a>
