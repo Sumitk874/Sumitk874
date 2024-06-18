@@ -1,12 +1,22 @@
 <h1 align="center">Hi 👋, I'm Paramjeet Kumar</h1>
 <h3 align="center">Who am I? I'm a hard worker. I set high goals and I've been told that I'm persistent.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitk874&label=Profile%20views&color=0e75b6&style=flat" alt="sumitk874" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitk874&label=Profile%20views&color=0e75b6&style=flat" alt="sumitk874" /> 
 
-- 🌱 I’m currently learning
-  - **Advanced machine learning techniques**
-  - **Cloud data services (AWS, GCP, Azure)**
-  - **Statistical analysis methods**
+
+- 🌱 **I’m currently learning**
+<div style="display: flex; align-items: flex-start;">
+
+  <div style="margin-right: 10px;">
+    <ul>
+      <li>Advanced machine learning techniques</li>
+      <li>Cloud data services (AWS, GCP, Azure)</li>
+      <li>Statistical analysis methods</li>
+    </ul>
+  </div>
+</div>
+
+
 ### Spotify Playing 🎧
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/3h7sxlomotumqw6dlof3atw7j)
