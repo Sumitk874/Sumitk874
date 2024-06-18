@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitk874&label=Profile%20views&color=0e75b6&style=flat" alt="sumitk874" /> 
 
 
-- 🌱 **I’m currently learning**
+🌱 **I’m currently learning**
 <div style="display: flex; align-items: flex-start;">
 
   <div style="margin-right: 10px;">
