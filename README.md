@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paramjeet Kumar</h1>
-<h3 align="center">Who am I? I'm a hard worker. I set high goals and I've been told that I'm persistent.</h3>
+<p align="center">Who am I? I'm a hard worker. I set high goals and I've been told that I'm persistent.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitk874&label=Profile%20views&color=0e75b6&style=flat" alt="sumitk874" /> 
 
